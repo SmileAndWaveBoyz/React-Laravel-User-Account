@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+
+}
+
+
+.errorMessage{
+    font-size: 0.8rem;
+    color: red;
+}
